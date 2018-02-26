@@ -1,0 +1,3 @@
+<design:component label="External Flow">
+    <design:attribute name="flowname" label="Flow Name" default="flow_name"/>
+</design:component>
